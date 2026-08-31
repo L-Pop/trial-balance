@@ -1,6 +1,6 @@
 # Trial Balance — Storybook
 
-Code companion to the [Trial Balance Figma file](https://www.figma.com/design/YCIOOyXcatc7zjImBIegHP/Trial-Balance-Table).
+Code companion to the [Trial Balance Figma file](Ki8Mg8U9IeNmWR1isoz59D/Clearwater-Analytics-Design-Exercise?node-id=17-793&t=6AKnREZsffOGkjDY-0).
 Implements the four component sets from the "Table Grid Components" page —
 Cell, Header Cell, Row, Toolbar — with the same variants and the same M3
 design tokens (`src/tokens/tokens.css`, mirroring the file's "M3/Color" and
